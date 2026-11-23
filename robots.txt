@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delaguardaagustin.github.io/zonabiker-taller-de-motos/sitemap.xml
